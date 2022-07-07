@@ -1,0 +1,15 @@
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\CheckoutApp.Domain.deps.json
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\CheckoutApp.Domain.dll
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\ref\CheckoutApp.Domain.dll
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\CheckoutApp.Domain.pdb
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.csproj.AssemblyReference.cache
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.AssemblyInfoInputs.cache
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.AssemblyInfo.cs
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.csproj.CoreCompileInputs.cache
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.dll
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\ref\CheckoutApp.Domain.dll
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.pdb
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\CheckoutApp.Domain.runtimeconfig.json
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\bin\Debug\net5.0\CheckoutApp.Domain.runtimeconfig.dev.json
+D:\Learn\YtTutorial\CheckoutApp\CheckoutApp.Domain\obj\Debug\net5.0\CheckoutApp.Domain.genruntimeconfig.cache

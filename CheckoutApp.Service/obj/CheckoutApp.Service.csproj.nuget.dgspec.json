@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learn\\CheckoutApp\\CheckoutApp.Service\\CheckoutApp.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\CheckoutApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\CheckoutApp.Domain.csproj",
+        "projectName": "CheckoutApp.Domain",
+        "projectPath": "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\CheckoutApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\eduard.damoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eduard.damoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\eduard.damoc\\.nuget\\packages": {},
+          "C:\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ncr.jfrog.io/artifactory/api/nuget/emerald-nuget-group": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learn\\CheckoutApp\\CheckoutApp.Service\\CheckoutApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learn\\CheckoutApp\\CheckoutApp.Service\\CheckoutApp.Service.csproj",
+        "projectName": "CheckoutApp.Service",
+        "projectPath": "D:\\Learn\\CheckoutApp\\CheckoutApp.Service\\CheckoutApp.Service.csproj",
+        "packagesPath": "C:\\Users\\eduard.damoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Learn\\CheckoutApp\\CheckoutApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eduard.damoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\eduard.damoc\\.nuget\\packages": {},
+          "C:\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ncr.jfrog.io/artifactory/api/nuget/emerald-nuget-group": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\CheckoutApp.Domain.csproj": {
+                "projectPath": "D:\\Learn\\CheckoutApp\\CheckoutApp.Domain\\CheckoutApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
